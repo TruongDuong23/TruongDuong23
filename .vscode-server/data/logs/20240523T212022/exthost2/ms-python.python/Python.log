@@ -1,0 +1,148 @@
+2024-05-23 21:22:18.862 [info] Experiment 'pythonCreateEnvOnPipInstall' is active
+2024-05-23 21:22:18.862 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-05-23 21:22:18.862 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-05-23 21:22:18.862 [info] Experiment 'pythonTestAdapter' is active
+2024-05-23 21:22:18.862 [info] Default formatter is set to null for workspace /home/duongtruonglgcns/workspace
+2024-05-23 21:22:18.862 [info] > hatch env show --json
+2024-05-23 21:22:18.862 [info] cwd: .
+2024-05-23 21:22:19.135 [info] > C:\Users\63200328\AppData\Local\Programs\Python\Python312\python.exe -I ~/.vscode-server/extensions/ms-python.python-2024.6.0/python_files/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2024.6.0/python_files/interpreterInfo.py
+2024-05-23 21:22:19.274 [error] [Error: Command failed: C:\Users\63200328\AppData\Local\Programs\Python\Python312\python.exe -I /home/duongtruonglgcns/.vscode-server/extensions/ms-python.python-2024.6.0/python_files/get_output_via_markers.py /home/duongtruonglgcns/.vscode-server/extensions/ms-python.python-2024.6.0/python_files/interpreterInfo.py
+/bin/sh: 1: C:Users63200328AppDataLocalProgramsPythonPython312python.exe: not found
+
+	at ChildProcess.exithandler (node:child_process:422:12)
+	at ChildProcess.emit (node:events:529:35)
+	at maybeClose (node:internal/child_process:1098:16)
+	at Socket.<anonymous> (node:internal/child_process:450:11)
+	at Socket.emit (node:events:517:28)
+	at Pipe.<anonymous> (node:net:350:12)] {
+  code: 127,
+  killed: false,
+  signal: null,
+  cmd: 'C:\\Users\\63200328\\AppData\\Local\\Programs\\Python\\Python312\\python.exe -I /home/duongtruonglgcns/.vscode-server/extensions/ms-python.python-2024.6.0/python_files/get_output_via_markers.py /home/duongtruonglgcns/.vscode-server/extensions/ms-python.python-2024.6.0/python_files/interpreterInfo.py'
+}
+2024-05-23 21:22:21.279 [info] > C:\Users\63200328\AppData\Local\Programs\Python\Python312\python.exe -I ~/.vscode-server/extensions/ms-python.python-2024.6.0/python_files/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2024.6.0/python_files/interpreterInfo.py
+2024-05-23 21:22:21.320 [error] [Error: Command failed: C:\Users\63200328\AppData\Local\Programs\Python\Python312\python.exe -I /home/duongtruonglgcns/.vscode-server/extensions/ms-python.python-2024.6.0/python_files/get_output_via_markers.py /home/duongtruonglgcns/.vscode-server/extensions/ms-python.python-2024.6.0/python_files/interpreterInfo.py
+/bin/sh: 1: C:Users63200328AppDataLocalProgramsPythonPython312python.exe: not found
+
+	at ChildProcess.exithandler (node:child_process:422:12)
+	at ChildProcess.emit (node:events:529:35)
+	at maybeClose (node:internal/child_process:1098:16)
+	at Socket.<anonymous> (node:internal/child_process:450:11)
+	at Socket.emit (node:events:517:28)
+	at Pipe.<anonymous> (node:net:350:12)] {
+  code: 127,
+  killed: false,
+  signal: null,
+  cmd: 'C:\\Users\\63200328\\AppData\\Local\\Programs\\Python\\Python312\\python.exe -I /home/duongtruonglgcns/.vscode-server/extensions/ms-python.python-2024.6.0/python_files/get_output_via_markers.py /home/duongtruonglgcns/.vscode-server/extensions/ms-python.python-2024.6.0/python_files/interpreterInfo.py'
+}
+2024-05-23 21:22:21.328 [info] > pyenv which python
+2024-05-23 21:22:21.328 [info] cwd: .
+2024-05-23 21:22:21.379 [info] > C:\Users\63200328\AppData\Local\Programs\Python\Python312\python.exe -c "import sys;print(sys.executable)"
+2024-05-23 21:22:21.417 [error] [Error: Command failed: C:\Users\63200328\AppData\Local\Programs\Python\Python312\python.exe -c "import sys;print(sys.executable)"
+/bin/sh: 1: C:Users63200328AppDataLocalProgramsPythonPython312python.exe: not found
+
+	at ChildProcess.exithandler (node:child_process:422:12)
+	at ChildProcess.emit (node:events:529:35)
+	at maybeClose (node:internal/child_process:1098:16)
+	at Socket.<anonymous> (node:internal/child_process:450:11)
+	at Socket.emit (node:events:517:28)
+	at Pipe.<anonymous> (node:net:350:12)] {
+  code: 127,
+  killed: false,
+  signal: null,
+  cmd: 'C:\\Users\\63200328\\AppData\\Local\\Programs\\Python\\Python312\\python.exe -c "import sys;print(sys.executable)"'
+}
+2024-05-23 21:22:21.447 [info] > pyenv which python
+2024-05-23 21:22:21.447 [info] cwd: .
+2024-05-23 21:22:22.448 [info] Starting Pylance language server.
+2024-05-23 23:50:14.740 [info] > conda info --json
+2024-05-23 23:50:14.753 [info] Found: /bin/python3 --> /bin/python3.10
+2024-05-23 23:50:14.755 [info] Found: /bin/python3.10 --> /bin/python3.10
+2024-05-23 23:50:14.772 [info] Found: /usr/bin/python3 --> /usr/bin/python3.10
+2024-05-23 23:50:14.775 [info] Found: /usr/bin/python3.10 --> /usr/bin/python3.10
+2024-05-23 23:50:15.092 [info] > /bin/python3 -I ~/.vscode-server/extensions/ms-python.python-2024.6.0/python_files/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2024.6.0/python_files/interpreterInfo.py
+2024-05-23 23:50:15.190 [info] > /usr/bin/python3 -I ~/.vscode-server/extensions/ms-python.python-2024.6.0/python_files/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2024.6.0/python_files/interpreterInfo.py
+2024-05-23 23:50:25.871 [info] Discover tests for workspace name: workspace - uri: /home/duongtruonglgcns/workspace
+2024-05-23 23:50:25.872 [info] Python interpreter path: /bin/python3
+2024-05-23 23:50:36.010 [info] Selected workspace /home/duongtruonglgcns/workspace for creating virtual environment.
+2024-05-23 23:50:47.035 [info] Selected interpreter /usr/bin/python3 for creating virtual environment.
+2024-05-23 23:50:47.196 [info] Running Env creation script:  [
+  '/usr/bin/python3',
+  '/home/duongtruonglgcns/.vscode-server/extensions/ms-python.python-2024.6.0/python_files/create_venv.py',
+  '--git-ignore'
+]
+2024-05-23 23:50:47.196 [info] > /usr/bin/python3 ~/.vscode-server/extensions/ms-python.python-2024.6.0/python_files/create_venv.py --git-ignore
+2024-05-23 23:50:47.196 [info] cwd: .
+2024-05-23 23:50:47.254 [info] Running: /usr/bin/python3 -m venv --without-pip .venv
+2024-05-23 23:50:47.288 [info] CREATED_VENV:/home/duongtruonglgcns/workspace/.venv/bin/python
+Creating: /home/duongtruonglgcns/workspace/.venv/.gitignore
+CREATE_VENV.DOWNLOADING_PIP
+2024-05-23 23:50:47.405 [info] Traceback (most recent call last):
+  File "/usr/lib/python3.10/urllib/request.py", line 1348, in do_open
+2024-05-23 23:50:47.405 [info]     h.request(req.get_method(), req.selector, req.data, headers,
+  File "/usr/lib/python3.10/http/client.py", line 1283, in request
+2024-05-23 23:50:47.405 [info]     self._send_request(method, url, body, headers, encode_chunked)
+  File "/usr/lib/python3.10/http/client.py", line 1329, in _send_request
+2024-05-23 23:50:47.405 [info]     self.endheaders(body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.10/http/client.py", line 1278, in endheaders
+2024-05-23 23:50:47.405 [info]     self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.10/http/client.py", line 1038, in _send_output
+2024-05-23 23:50:47.406 [info]     self.send(msg)
+  File "/usr/lib/python3.10/http/client.py", line 976, in send
+2024-05-23 23:50:47.406 [info]     self.connect()
+  File "/usr/lib/python3.10/http/client.py", line 1455, in connect
+2024-05-23 23:50:47.406 [info]     self.sock = self._context.wrap_socket(self.sock,
+  File "/usr/lib/python3.10/ssl.py", line 513, in wrap_socket
+2024-05-23 23:50:47.406 [info]     return self.sslsocket_class._create(
+  File "/usr/lib/python3.10/ssl.py", line 1100, in _create
+2024-05-23 23:50:47.406 [info]     self.do_handshake()
+  File "/usr/lib/python3.10/ssl.py", line 1371, in do_handshake
+2024-05-23 23:50:47.406 [info]     self._sslobj.do_handshake()
+ssl.SSLCertVerificationError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/duongtruonglgcns/.vscode-server/extensions/ms-python.python-2024.6.0/python_files/create_venv.py", line 150, in download_pip_pyz
+2024-05-23 23:50:47.406 [info]     with url_lib.urlopen(url) as response:
+  File "/usr/lib/python3.10/urllib/request.py", line 216, in urlopen
+2024-05-23 23:50:47.406 [info]     return opener.open(url, data, timeout)
+  File "/usr/lib/python3.10/urllib/request.py", line 519, in open
+2024-05-23 23:50:47.406 [info]     response = self._open(req, data)
+  File "/usr/lib/python3.10/urllib/request.py", line 536, in _open
+2024-05-23 23:50:47.406 [info]     result = self._call_chain(self.handle_open, protocol, protocol +
+  File "/usr/lib/python3.10/urllib/request.py", line 496, in _call_chain
+2024-05-23 23:50:47.407 [info]     result = func(*args)
+  File "/usr/lib/python3.10/urllib/request.py", line 1391, in https_open
+2024-05-23 23:50:47.407 [info]     return self.do_open(http.client.HTTPSConnection, req,
+  File "/usr/lib/python3.10/urllib/request.py", line 1351, in do_open
+2024-05-23 23:50:47.407 [info]     raise URLError(err)
+urllib.error.URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007)>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/duongtruonglgcns/.vscode-server/extensions/ms-python.python-2024.6.0/python_files/create_venv.py", line 258, in <module>
+2024-05-23 23:50:47.407 [info]     main(sys.argv[1:])
+  File "/home/duongtruonglgcns/.vscode-server/extensions/ms-python.python-2024.6.0/python_files/create_venv.py", line 244, in main
+2024-05-23 23:50:47.407 [info]     download_pip_pyz(args.name)
+  File "/home/duongtruonglgcns/.vscode-server/extensions/ms-python.python-2024.6.0/python_files/create_venv.py", line 157, in download_pip_pyz
+2024-05-23 23:50:47.407 [info]     raise VenvError("CREATE_VENV.DOWNLOAD_PIP_FAILED")
+__main__.VenvError: CREATE_VENV.DOWNLOAD_PIP_FAILED
+2024-05-23 23:50:47.420 [error] Error while running venv creation script:  CREATE_VENV.DOWNLOAD_PIP_FAILED
+2024-05-23 23:50:47.420 [error] CREATE_VENV.DOWNLOAD_PIP_FAILED
+2024-05-23 23:50:48.380 [info] > ./.venv/bin/python -I ~/.vscode-server/extensions/ms-python.python-2024.6.0/python_files/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2024.6.0/python_files/interpreterInfo.py
+2024-05-23 23:50:52.058 [info] Discover tests for workspace name: workspace - uri: /home/duongtruonglgcns/workspace
+2024-05-23 23:50:52.060 [info] Python interpreter path: ./.venv/bin/python
+2024-05-23 23:50:52.085 [info] > . ./.venv/bin/activate && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ~/.vscode-server/extensions/ms-python.python-2024.6.0/python_files/printEnvVariables.py
+2024-05-23 23:50:52.085 [info] shell: bash
+2024-05-23 23:50:52.132 [info] > /bin/python3 ~/.vscode-server/extensions/ms-python.python-2024.6.0/python_files/printEnvVariables.py
+2024-05-23 23:50:52.133 [info] shell: bash
+2024-05-23 23:50:52.171 [info] Setting environment variable VIRTUAL_ENV in collection to /home/duongtruonglgcns/workspace/.venv {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-05-23 23:50:52.171 [info] Setting environment variable VIRTUAL_ENV_PROMPT in collection to (.venv)  {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-05-23 23:50:52.171 [info] Prepending environment variable PS1 in collection with (.venv)  {"applyAtShellIntegration":true,"applyAtProcessCreation":false}
+2024-05-23 23:50:52.171 [info] Prepending environment variable PATH in collection with /home/duongtruonglgcns/.vscode-server/extensions/ms-python.python-2024.6.0/python_files/deactivate/bash:/home/duongtruonglgcns/workspace/.venv/bin: {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-05-23 23:50:52.173 [info] Send text to terminal: /bin/python3 /home/duongtruonglgcns/.vscode-server/extensions/ms-python.python-2024.6.0/python_files/printEnvVariablesToFile.py /home/duongtruonglgcns/.vscode-server/extensions/ms-python.python-2024.6.0/python_files/deactivate/bash/envVars.txt
+2024-05-23 23:51:06.101 [info] CreateEnv Trigger - Skipping for /home/duongtruonglgcns/workspace/demo.py
+2024-05-23 23:51:06.208 [info] Send text to terminal: /home/duongtruonglgcns/workspace/.venv/bin/python /home/duongtruonglgcns/workspace/demo.py
+2024-05-23 23:51:06.351 [info] Discover tests for workspace name: workspace - uri: /home/duongtruonglgcns/workspace/demo.py

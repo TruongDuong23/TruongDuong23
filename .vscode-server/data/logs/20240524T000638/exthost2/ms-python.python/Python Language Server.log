@@ -1,0 +1,16 @@
+2024-05-24 00:07:06.551 [info] (Client) Pylance async client (2024.5.1) started with python extension (2024.6.0)
+2024-05-24 00:07:06.987 [info] [Info  - 12:07:06 AM] (35166) Pylance language server 2024.5.1 (pyright version 1.1.360, commit 4bc8428d) starting
+2024-05-24 00:07:06.988 [info] [Info  - 12:07:06 AM] (35166) Server root directory: file:///home/duongtruonglgcns/.vscode-server/extensions/ms-python.vscode-pylance-2024.5.1/dist
+2024-05-24 00:07:06.988 [info] [Info  - 12:07:06 AM] (35166) Starting service instance "workspace"
+2024-05-24 00:07:06.989 [info] [Info  - 12:07:06 AM] (35166) Auto-Indent enabled
+2024-05-24 00:07:07.033 [info] [Info  - 12:07:07 AM] (35166) Setting pythonPath for service "workspace": "/home/duongtruonglgcns/workspace/.venv/bin/python"
+2024-05-24 00:07:07.033 [info] [Info  - 12:07:07 AM] (35166) Setting environmentName for service "workspace": "3.10.12 (.venv venv)"
+2024-05-24 00:07:07.056 [info] [Info  - 12:07:07 AM] (35166) Assuming Python version 3.10.12.final.0
+2024-05-24 00:07:07.122 [info] [Info  - 12:07:07 AM] (35166) Found 1 source file
+2024-05-24 00:07:07.536 [info] [Info  - 12:07:07 AM] (35166) Background analysis(1) root directory: file:///home/duongtruonglgcns/.vscode-server/extensions/ms-python.vscode-pylance-2024.5.1/dist
+2024-05-24 00:07:07.538 [info] [Info  - 12:07:07 AM] (35166) Background analysis(1) started
+2024-05-24 00:07:07.688 [info] [Info  - 12:07:07 AM] (35166) Indexer background runner(2) root directory: file:///home/duongtruonglgcns/.vscode-server/extensions/ms-python.vscode-pylance-2024.5.1/dist (index)
+2024-05-24 00:07:07.688 [info] [Info  - 12:07:07 AM] (35166) Indexing(2) started
+2024-05-24 00:07:08.283 [info] [Info  - 12:07:08 AM] (35166) scanned(2) 9 files over 1 exec env
+2024-05-24 00:07:08.511 [info] [Info  - 12:07:08 AM] (35166) indexed(2) 2 files over 1 exec env
+2024-05-24 00:07:08.530 [info] [Info  - 12:07:08 AM] (35166) Indexing finished(2).

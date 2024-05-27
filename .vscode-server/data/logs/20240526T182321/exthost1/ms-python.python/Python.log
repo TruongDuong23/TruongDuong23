@@ -1,0 +1,50 @@
+2024-05-26 18:23:35.139 [info] Experiment 'pythonCreateEnvOnPipInstall' is active
+2024-05-26 18:23:35.139 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-05-26 18:23:35.139 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-05-26 18:23:35.139 [info] Experiment 'pythonTestAdapter' is active
+2024-05-26 18:23:35.139 [info] Default formatter is set to null for workspace /home/duongtruonglgcns
+2024-05-26 18:23:35.139 [info] > hatch env show --json
+2024-05-26 18:23:35.139 [info] cwd: .
+2024-05-26 18:23:35.237 [info] > C:\Users\63200328\AppData\Local\Programs\Python\Python312\python.exe -I ./.vscode-server/extensions/ms-python.python-2024.6.0/python_files/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2024.6.0/python_files/interpreterInfo.py
+2024-05-26 18:23:35.339 [error] [Error: Command failed: C:\Users\63200328\AppData\Local\Programs\Python\Python312\python.exe -I /home/duongtruonglgcns/.vscode-server/extensions/ms-python.python-2024.6.0/python_files/get_output_via_markers.py /home/duongtruonglgcns/.vscode-server/extensions/ms-python.python-2024.6.0/python_files/interpreterInfo.py
+/bin/sh: 1: C:Users63200328AppDataLocalProgramsPythonPython312python.exe: not found
+
+	at ChildProcess.exithandler (node:child_process:422:12)
+	at ChildProcess.emit (node:events:529:35)
+	at maybeClose (node:internal/child_process:1098:16)
+	at Socket.<anonymous> (node:internal/child_process:450:11)
+	at Socket.emit (node:events:517:28)
+	at Pipe.<anonymous> (node:net:350:12)] {
+  code: 127,
+  killed: false,
+  signal: null,
+  cmd: 'C:\\Users\\63200328\\AppData\\Local\\Programs\\Python\\Python312\\python.exe -I /home/duongtruonglgcns/.vscode-server/extensions/ms-python.python-2024.6.0/python_files/get_output_via_markers.py /home/duongtruonglgcns/.vscode-server/extensions/ms-python.python-2024.6.0/python_files/interpreterInfo.py'
+}
+2024-05-26 18:23:37.346 [info] > C:\Users\63200328\AppData\Local\Programs\Python\Python312\python.exe -I ./.vscode-server/extensions/ms-python.python-2024.6.0/python_files/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2024.6.0/python_files/interpreterInfo.py
+2024-05-26 18:23:37.396 [error] [Error: Command failed: C:\Users\63200328\AppData\Local\Programs\Python\Python312\python.exe -I /home/duongtruonglgcns/.vscode-server/extensions/ms-python.python-2024.6.0/python_files/get_output_via_markers.py /home/duongtruonglgcns/.vscode-server/extensions/ms-python.python-2024.6.0/python_files/interpreterInfo.py
+/bin/sh: 1: C:Users63200328AppDataLocalProgramsPythonPython312python.exe: not found
+
+	at ChildProcess.exithandler (node:child_process:422:12)
+	at ChildProcess.emit (node:events:529:35)
+	at maybeClose (node:internal/child_process:1098:16)
+	at Socket.<anonymous> (node:internal/child_process:450:11)
+	at Socket.emit (node:events:517:28)
+	at Pipe.<anonymous> (node:net:350:12)] {
+  code: 127,
+  killed: false,
+  signal: null,
+  cmd: 'C:\\Users\\63200328\\AppData\\Local\\Programs\\Python\\Python312\\python.exe -I /home/duongtruonglgcns/.vscode-server/extensions/ms-python.python-2024.6.0/python_files/get_output_via_markers.py /home/duongtruonglgcns/.vscode-server/extensions/ms-python.python-2024.6.0/python_files/interpreterInfo.py'
+}
+2024-05-26 18:23:37.406 [info] > pyenv which python
+2024-05-26 18:23:37.406 [info] cwd: .
+2024-05-26 18:23:37.459 [info] Python interpreter path: ./workspace/.venv/bin/python
+2024-05-26 18:23:37.628 [info] > . ./workspace/.venv/bin/activate && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ./.vscode-server/extensions/ms-python.python-2024.6.0/python_files/printEnvVariables.py
+2024-05-26 18:23:37.628 [info] shell: bash
+2024-05-26 18:23:38.040 [info] > /bin/python3 ./.vscode-server/extensions/ms-python.python-2024.6.0/python_files/printEnvVariables.py
+2024-05-26 18:23:38.040 [info] shell: bash
+2024-05-26 18:23:38.115 [info] Setting environment variable VIRTUAL_ENV in collection to /home/duongtruonglgcns/workspace/.venv {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-05-26 18:23:38.115 [info] Setting environment variable VIRTUAL_ENV_PROMPT in collection to (.venv)  {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-05-26 18:23:38.115 [info] Prepending environment variable PS1 in collection with (.venv)  {"applyAtShellIntegration":true,"applyAtProcessCreation":false}
+2024-05-26 18:23:38.115 [info] Prepending environment variable PATH in collection with /home/duongtruonglgcns/.vscode-server/extensions/ms-python.python-2024.6.0/python_files/deactivate/bash:/home/duongtruonglgcns/workspace/.venv/bin: {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-05-26 18:23:38.116 [info] Send text to terminal: /bin/python3 /home/duongtruonglgcns/.vscode-server/extensions/ms-python.python-2024.6.0/python_files/printEnvVariablesToFile.py /home/duongtruonglgcns/.vscode-server/extensions/ms-python.python-2024.6.0/python_files/deactivate/bash/envVars.txt
+2024-05-26 18:23:39.067 [info] Starting Pylance language server.

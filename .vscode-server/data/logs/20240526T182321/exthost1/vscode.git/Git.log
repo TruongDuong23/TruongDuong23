@@ -1,0 +1,41 @@
+2024-05-26 18:23:25.048 [info] Log level: Info
+2024-05-26 18:23:25.048 [info] Validating found git in: "git"
+2024-05-26 18:23:25.177 [info] Using git "2.34.1" from "git"
+2024-05-26 18:23:25.368 [info] > git rev-parse --show-toplevel [48ms]
+2024-05-26 18:23:25.368 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-26 18:23:25.384 [info] > git rev-parse --show-toplevel [3ms]
+2024-05-26 18:23:25.384 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-26 18:23:25.390 [info] > git rev-parse --show-toplevel [2ms]
+2024-05-26 18:23:25.390 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-26 18:23:25.476 [info] > git rev-parse --show-toplevel [72ms]
+2024-05-26 18:23:25.476 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-26 18:23:25.529 [info] > git rev-parse --show-toplevel [39ms]
+2024-05-26 18:23:25.529 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-26 18:23:25.536 [info] > git rev-parse --show-toplevel [1ms]
+2024-05-26 18:23:25.536 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-26 18:23:25.557 [info] > git rev-parse --show-toplevel [1ms]
+2024-05-26 18:23:25.557 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-26 18:23:34.331 [info] > git rev-parse --show-toplevel [238ms]
+2024-05-26 18:23:34.331 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-26 18:33:11.509 [info] > git rev-parse --show-toplevel [1ms]
+2024-05-26 18:33:11.509 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-26 18:33:54.529 [info] > git rev-parse --show-toplevel [1ms]
+2024-05-26 18:33:54.529 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-26 19:11:23.870 [info] > git rev-parse --show-toplevel [1ms]
+2024-05-26 19:11:23.876 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2024-05-26 19:11:23.886 [info] Open repository: /home/duongtruonglgcns
+2024-05-26 19:11:23.900 [info] No remotes found in the git config file.
+2024-05-26 19:11:23.902 [info] > git config --get commit.template [8ms]
+2024-05-26 19:11:23.905 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [6ms]
+2024-05-26 19:11:23.906 [warning] No such branch: master.
+2024-05-26 19:11:24.071 [info] > git status -z -uall [159ms] (cancelled)
+2024-05-26 19:11:24.304 [info] > git show --textconv :workspace/demo.py [6ms]
+2024-05-26 19:11:24.305 [info] > git ls-files --stage -- /home/duongtruonglgcns/workspace/demo.py [2ms]
+2024-05-26 19:11:24.422 [info] > git check-ignore -v -z --stdin [1ms]
+2024-05-26 19:11:30.146 [info] > git config --get commit.template [876ms]
+2024-05-26 19:11:30.225 [info] No remotes found in the git config file.
+2024-05-26 19:11:30.231 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [15ms]
+2024-05-26 19:11:30.231 [warning] No such branch: master.
+2024-05-26 19:11:31.372 [info] > git status -z -uall [1122ms] (cancelled)
+2024-05-26 19:12:10.306 [info] > git ls-files --stage -- /home/duongtruonglgcns/workspace/demo.py [1ms]
+2024-05-26 19:12:10.319 [info] > git show --textconv :workspace/demo.py [2ms]

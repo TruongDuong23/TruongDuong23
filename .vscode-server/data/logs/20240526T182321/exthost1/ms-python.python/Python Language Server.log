@@ -1,0 +1,16 @@
+2024-05-26 18:23:38.087 [info] (Client) Pylance async client (2024.5.1) started with python extension (2024.6.0)
+2024-05-26 18:23:39.041 [info] [Info  - 6:23:38 PM] (727) Pylance language server 2024.5.1 (pyright version 1.1.360, commit 4bc8428d) starting
+2024-05-26 18:23:39.042 [info] [Info  - 6:23:39 PM] (727) Server root directory: file:///home/duongtruonglgcns/.vscode-server/extensions/ms-python.vscode-pylance-2024.5.1/dist
+2024-05-26 18:23:39.043 [info] [Info  - 6:23:39 PM] (727) Starting service instance "duongtruonglgcns"
+2024-05-26 18:23:39.043 [info] [Info  - 6:23:39 PM] (727) Auto-Indent enabled
+2024-05-26 18:23:39.106 [info] [Info  - 6:23:39 PM] (727) Setting pythonPath for service "duongtruonglgcns": "/home/duongtruonglgcns/workspace/.venv/bin/python"
+2024-05-26 18:23:39.107 [info] [Info  - 6:23:39 PM] (727) Setting environmentName for service "duongtruonglgcns": "3.10.12 (.venv venv)"
+2024-05-26 18:23:39.132 [info] [Info  - 6:23:39 PM] (727) Assuming Python version 3.10.12.final.0
+2024-05-26 18:23:39.215 [info] [Info  - 6:23:39 PM] (727) Found 1 source file
+2024-05-26 18:23:39.708 [info] [Info  - 6:23:39 PM] (727) Background analysis(1) root directory: file:///home/duongtruonglgcns/.vscode-server/extensions/ms-python.vscode-pylance-2024.5.1/dist
+2024-05-26 18:23:39.708 [info] [Info  - 6:23:39 PM] (727) Background analysis(1) started
+2024-05-26 18:23:39.998 [info] [Info  - 6:23:39 PM] (727) Indexer background runner(2) root directory: file:///home/duongtruonglgcns/.vscode-server/extensions/ms-python.vscode-pylance-2024.5.1/dist (index)
+2024-05-26 18:23:39.999 [info] [Info  - 6:23:39 PM] (727) Indexing(2) started
+2024-05-26 18:23:40.548 [info] [Info  - 6:23:40 PM] (727) scanned(2) 9 files over 1 exec env
+2024-05-26 18:23:40.991 [info] [Info  - 6:23:40 PM] (727) indexed(2) 2 files over 1 exec env
+2024-05-26 18:23:41.009 [info] [Info  - 6:23:41 PM] (727) Indexing finished(2).
